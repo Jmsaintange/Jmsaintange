@@ -41,8 +41,9 @@ Looking ahead, I have ambitious goals and I want to become:
 - Network administrator
 - Linux Administrator
 
-Feel free to connect with me through [linkedin](https://www.linkedin.com/in/james-s-b305635a/)
-
+  Feel free to connect with me through [linkedin](https://www.linkedin.com/in/james-s-b305635a/)
+  
+  Visit [Haiti](https://visithaiti.com/destinations/)
 
 
 
