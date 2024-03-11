@@ -43,5 +43,5 @@ Looking ahead, I have ambitious goals and I want to become:
 
 Feel free to connect with me through [linkedin](https://www.linkedin.com/in/james-s-b305635a/)
 
-Feel free to connect with me through [flag of haiti] (https://www.linkedin.com/in/james-s-b305635a/](https://www.allwavingflags.com/2018/06/flag-of-haiti.html)https://www.allwavingflags.com/2018/06/flag-of-haiti.html)
+Feel free to connect with me through [flag of haiti](https://www.allwavingflags.com/2018/06/flag-of-haiti.html)
 
