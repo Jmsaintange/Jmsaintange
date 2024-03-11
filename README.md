@@ -1,6 +1,5 @@
 # James Mike Saint Ange
 *Adventurer, Dreamer, and Travel Enthusiast* 
-[My flag] (https://www.allwavingflags.com/2018/06/flag-of-haiti.html))
 
 Hello! I’m James Mike Saint Ange, a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do. Therefore, dream come true at JTC that aligned my career’s transition as Web Developer with a passion for coding and creating beautiful websites.
 
@@ -44,5 +43,5 @@ Looking ahead, I have ambitious goals and I want to become:
 
 Feel free to connect with me through [linkedin](https://www.linkedin.com/in/james-s-b305635a/)
 
-
+Feel free to connect with me through [flag of Haiti]([https://www.linkedin.com/in/james-s-b305635a/](https://www.allwavingflags.com/2018/06/flag-of-haiti.html)https://www.allwavingflags.com/2018/06/flag-of-haiti.html)
 
