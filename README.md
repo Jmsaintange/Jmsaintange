@@ -3,14 +3,7 @@
 ## **Phone Number: (917)436-0683**
 ## **Email: jdonmike80@gmail.com**
 ## **Adventurer, Dreamer, and Travel Enthusiast**
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-<a href="red">
-Hello! I’m James Mike Saint Ange, a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do. Therefore dream come true at JTC that aligned my career’s transition as Web Developer with a passion for coding and creating beautiful websites.</a>
+
 Hello! I’m James Mike Saint Ange, a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do. Therefore dream come true at JTC that aligned my career’s transition as Web Developer with a passion for coding and creating beautiful websites.
  
 ### **Background and Education**
