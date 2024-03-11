@@ -1,5 +1,5 @@
 # James Mike Saint Ange
-*Adventurer, Dreamer, and Travel Enthusiast* [My flag]([https://www.linkedin.com/in/james-s-b305635a/](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq8nIAJj1TETzDmaRvg_Xa4480bHn3Daqlmsz9XCcTwf-9oKpz1tdiWZoXKd5_zWXbZGpmdcehPb_aFJ71Q00cxlswfITS3Jh425O3mt2Wwruy2lg_o1YR0GwWIEVkHi0NYhyfOjaCt2Y/s0/Flag_of_Haiti.gif))
+*Adventurer, Dreamer, and Travel Enthusiast* [My flag]([https://www.linkedin.com/in/james-s-b305635a/](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq8nIAJj1TETzDmaRvg_Xa4480bHn3Daqlmsz9XCcTwf-9oKpz1tdiWZoXKd5_zWXbZGpmdcehPb_aFJ71Q00cxlswfITS3Jh425O3mt2Wwruy2lg_o1YR0GwWIEVkHi0NYhyfOjaCt2Y/s0/Flag_of_Haiti.gif)
 
 Hello! I’m James Mike Saint Ange, a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do. Therefore, dream come true at JTC that aligned my career’s transition as Web Developer with a passion for coding and creating beautiful websites.
 
