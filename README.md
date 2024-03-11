@@ -45,5 +45,5 @@ Feel free to connect with me through [linkedin](https://www.linkedin.com/in/jame
 
 Feel free to connect with me through [flag of haiti](https://www.allwavingflags.com/2018/06/flag-of-haiti.html)  
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/Flag_of_Haiti.gif)
+![Alt Text](Flag_of_Haiti.gif)
 
