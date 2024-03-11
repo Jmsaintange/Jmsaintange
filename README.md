@@ -37,7 +37,6 @@ Looking ahead, I have ambitious goals and I want to become:
 * A web developer
 * Oracle database administrator
 * Network administrator
-* Network administrator
 * Linux Administrator
   
 
