@@ -1,3 +1,4 @@
+<span style="color:red"> *some emphasized markdown text*</span>
 ## **James Mike Saint Ange**
 ## **Phone Number: (917)436-0683**
 ## **Email: jdonmike80@gmail.com**
