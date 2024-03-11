@@ -42,6 +42,6 @@ Looking ahead, I have ambitious goals and I want to become:
 * Network administrator
 * Linux Administrator
   
-
+Let's Connect on LinkedIn
 
 
