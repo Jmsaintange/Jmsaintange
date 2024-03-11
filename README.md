@@ -42,7 +42,7 @@ Looking ahead, I have ambitious goals and I want to become:
 - Linux Administrator
 
 Feel free to connect with me through 
-[LinkedIn] (https://www.linkedin.com/in/james-s-b305635a/)
+[Linkdlen] (https://www.linkedin.com/in/james-s-b305635a/)
 
 
 
