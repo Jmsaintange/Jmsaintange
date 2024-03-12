@@ -43,7 +43,7 @@ Looking ahead, I have ambitious goals and I want to become:
 
   Feel free to connect with me through [linkedin](https://www.linkedin.com/in/james-s-b305635a/)
   
-![alt text for screen readers](C:\Users\jmsai\OneDrive\Desktop\JTC_Project)
+![ ](C:\Users\jmsai\OneDrive\Desktop\JTC_Project)
  Visit [Haiti](https://visithaiti.com/destinations/)
 
 
